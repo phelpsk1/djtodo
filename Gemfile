@@ -10,6 +10,7 @@ gem 'rails', '~> 4.2.0'
 gem 'ey_config'
 gem 'rails_autolink'
 gem 'simple_form'
+gem 'delayed_job'
 
 # Assets
 gem 'jquery-rails'
@@ -25,7 +26,6 @@ platform :ruby do
 
   gem 'newrelic_rpm'
   gem 'unicorn'
-  gem 'puma'
   gem 'json'
   gem 'minitest'
   gem 'psych'
