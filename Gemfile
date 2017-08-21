@@ -11,6 +11,7 @@ gem 'ey_config'
 gem 'rails_autolink'
 gem 'simple_form'
 gem 'delayed_job_active_record'
+gem 'daemons'
 
 # Assets
 gem 'jquery-rails'
